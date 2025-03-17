@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Financial News Sentiment Analysis</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Financial News Sentiment Analysis</h1>
+        <form id="sentimentForm">
+            <input type="text" id="newsUrl" placeholder="Enter Financial News URL" required>
+            <button type="submit">Analyze Sentiment</button>
+        </form>
+        <div id="result" class="hidden"></div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
