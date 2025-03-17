@@ -116,10 +116,6 @@ python main2.py
 
 ---
 
-## 📃 License
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## 🤝 Contributing
 1. Fork the project.
