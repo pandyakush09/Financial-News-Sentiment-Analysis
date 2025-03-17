@@ -130,10 +130,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 📞 Contact
-- **Kush Pandya**
-- [LinkedIn](#) | [GitHub](#)
-
----
 
 > **Note:** Ensure that the URLs used for sentiment analysis are valid and accessible.
